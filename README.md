@@ -14,7 +14,7 @@
 
 #### Student can login after librarian makes his/her account
 <img src="https://user-images.githubusercontent.com/65284517/123615689-2b7d0280-d823-11eb-8c2b-6c51cd2aba5d.PNG" height=400px width = 500px/>
-<img src="https://user-images.githubusercontent.com/65284517/123615692-2c159900-d823-11eb-9fe1-2abd9feb8bd3.PNG" height=400px width = 500px/>
+<img src="https://user-images.githubusercontent.com/65284517/123617556-fffb1780-d824-11eb-9982-727a9b7d6e4e.PNG" height=400px width = 500px/>
 
 #### Librarian Login
 <img src="https://user-images.githubusercontent.com/65284517/123615224-b7daf580-d822-11eb-96f3-702bd1932ab4.PNG" height=400px width = 500px/>
