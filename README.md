@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/65284517/123604593-9c6aed00-d818-11eb-893b-2e506df20082.png" height=350px width = 500px/>
+<img src="https://user-images.githubusercontent.com/65284517/123604593-9c6aed00-d818-11eb-893b-2e506df20082.png" height=120px width = 120px/>
 <h1 align="left"> MY LIBRARY</h1>
 
 
